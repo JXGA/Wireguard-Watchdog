@@ -6,7 +6,7 @@ This script is destined for machines that __have an internet kill switch__, mean
 
 The original script linked below is better for pinging IP the Wireguard server IP. 
 
-## Information
+## Information
 
 This script was re-written based on a script shared on Reddit. [Source is here](https://www.reddit.com/r/WireGuard/comments/er2hq8/comment/hk1pu0b/?utm_source=share&utm_medium=web2x&context=3)
 
