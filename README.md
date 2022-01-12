@@ -20,7 +20,8 @@ This script was re-written based on a script shared on Reddit. [Source is here](
 1. Copy the script to your desired destination
 2. Install requests if you don't already have it (`python -m pip install requests`)
 3. Check the script is suitably configured for you. 
-4. Add to your __root__ crontab (`sudo crontab -e`). Root access is used to restart the Wireguard service. 
+4. Add to your __root__ crontab (`sudo crontab -e`). Root access is used to restart the Wireguard service:
+`*/5 * * * * /usr/bin/python3 /home/USER/wg-watchdog.py`
 
 ## Options for you to change the script: 
 
